@@ -49,8 +49,8 @@ File Downloader is a Go application that reads URLs from an input file, download
 
 ## Configuration
 
-- [def.MaxWorkers]: Maximum number of concurrent workers for downloading URLs.
-- [def.ResultPath]: Path where the downloaded content will be stored.
+- [MaxWorkers]: Maximum number of concurrent workers for downloading URLs.
+- [ResultPath]: Path where the downloaded content will be stored.
 
 ## Logging
 
